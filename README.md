@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Welcome to my Data Science Internship repository! This workspace contains all the completed tasks, exploratory data analyses, and machine learning models developed during my internship program.
@@ -53,3 +54,6 @@ Welcome to my Data Science Internship repository! This workspace contains all th
 2. Ensure you have the required Python libraries installed:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+=======
+# OASIS-INFOBYTE
+>>>>>>> 62b254908db5eda02124d79f7cde50f48f1c3658
